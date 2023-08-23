@@ -7,6 +7,6 @@ git remote add two
 git remote add three
  -> can add multiple repo same like this.
 
-*Push & Pull to Multiple Remotes:
+ *Push & Pull to Multiple Remotes:
 	-> git push remote_name branch_name
 	-> git pull remote_name branch_name
