@@ -1,0 +1,5 @@
+to combine two or more commits into a single commit, we can use the 
+interactive rebase feature.
+
+
+	-> git rebase -i HEAD~4
