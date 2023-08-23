@@ -1,0 +1,12 @@
+To handle multiple repo:
+
+1.git clone repo_url
+2.cd repo_directory
+3.git remote add one
+git remote add two
+git remote add three
+ -> can add multiple repo same like this.
+
+ *Push & Pull to Multiple Remotes:
+	-> git push remote_name branch_name
+	-> git pull remote_name branch_name

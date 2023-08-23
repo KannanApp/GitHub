@@ -1,0 +1,4 @@
+
+Unstage from the staged area?
+
+	-> git reset filename.txt
