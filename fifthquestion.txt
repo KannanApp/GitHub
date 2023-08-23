@@ -1,0 +1,12 @@
+*forch Push:
+	-> The --force flag is used to forcefully update a remote branch 
+with your local chnages.
+	git push --force origin brance_name
+
+
+*lease Push:
+	-> The force with lease flag is a safer alternative to '--force' 
+when pushing changes to a remote branch. It checks if the remote brance 
+HEAD matches in local branch HEAD before pushing, it will help to prevent
+accidental data loss.
+	git push --force-with-lease origin branch_name
