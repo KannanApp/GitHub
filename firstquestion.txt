@@ -1,0 +1,5 @@
+It's picking a commit from brance and applying into another. 
+If we commit wrong brance, we can switch to the correct branch by using
+cherry pick command.
+1.git switch master
+2.git cherry-pick commit_hash_id.
